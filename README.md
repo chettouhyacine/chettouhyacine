@@ -1,10 +1,10 @@
 # Hi, I'm Yacine Chettouh 👋
 
-**Full-stack developer — I build offline-first business software for Algerian SMEs.**
+**Full-stack developer I build offline-first business software for Algerian SMEs.**
 
 Most small businesses here run on notebooks and Excel, on machines with no reliable
 Internet. I build desktop tools that work with the network unplugged: local database,
-local printing, local backups — and no cloud bill.
+local printing, local backups and no cloud bill.
 
 ---
 
@@ -15,7 +15,7 @@ local printing, local backups — and no cloud bill.
 
 ### Featured project
 
-**[Showroom DZ](https://github.com/chettouhyacine/showroom-dz)** — management app for
+**[Showroom DZ](https://github.com/chettouhyacine/showroom-dz)** management app for
 Algerian car showrooms: own and consigned stock, sales with installments and trade-ins,
 consignment commissions, legal invoicing (PDF + Excel, French/Arabic), reports, roles and
 audit log. 100 % offline, money stored in integer centimes, gap-free document numbering.
@@ -24,11 +24,11 @@ audit log. 100 % offline, money stored in integer centimes, gap-free document nu
 
 ### How I build
 
-- **Money and documents must be exact** — integer arithmetic, no floating point, no
+- **Money and documents must be exact** integer arithmetic, no floating point, no
   numbering gaps, issued documents locked.
-- **Offline first** — everything works without Internet; backups are a `.zip` on a USB
+- **Offline first** everything works without Internet; backups are a `.zip` on a USB
   stick, not a cloud subscription.
-- **Verify, don't assume** — unit tests on the domain logic, end-to-end checks against the
+- **Verify, don't assume** unit tests on the domain logic, end-to-end checks against the
   real services, and the app is only done when it runs on a fresh machine.
 
 ---
