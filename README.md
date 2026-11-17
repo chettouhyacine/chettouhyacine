@@ -10,10 +10,10 @@ local printing, local backups and no cloud bill.
 
 ### What I work with
 
-`TypeScript` · `React` · `Electron` · `Node.js` · `SQLite` · `Tailwind CSS` ·
-`Vite` · `esbuild` · `Git`
+`Rust` · `Tauri` · `TypeScript` · `React` · `Electron` · `Node.js` · `SQLite` ·
+`Tailwind CSS` · `Vite` · `esbuild` · `Git`
 
-### Featured project
+### Featured projects
 
 **[Showroom DZ](https://github.com/chettouhyacine/showroom-dz)** management app for
 Algerian car showrooms: own and consigned stock, sales with installments and trade-ins,
@@ -21,6 +21,14 @@ consignment commissions, legal invoicing (PDF + Excel, French/Arabic), reports, 
 audit log. 100 % offline, money stored in integer centimes, gap-free document numbering.
 
 [![Showroom DZ dashboard](https://raw.githubusercontent.com/chettouhyacine/showroom-dz/main/docs/screenshots/tableau-de-bord.png)](https://github.com/chettouhyacine/showroom-dz)
+
+**[Notaire DZ](https://github.com/chettouhyacine/notaire-dz)** practice software for an
+Algerian notary office: clients, case files, encrypted document vault, hash chained audit
+trail, encrypted backups. Rust core with AES-256-GCM records and an Argon2id derived key,
+Tauri 2 shell, Arabic first interface with instant French switch. Per-user Windows
+installer and a 13 page client guide in the repository.
+
+[![Notaire DZ home screen](https://raw.githubusercontent.com/chettouhyacine/notaire-dz/main/docs/screenshots/home.png)](https://github.com/chettouhyacine/notaire-dz)
 
 ### How I build
 
